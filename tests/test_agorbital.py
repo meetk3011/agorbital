@@ -2,7 +2,6 @@
 
 """Tests for `agorbital` package."""
 
-
 import unittest
 
 from agorbital import agorbital
